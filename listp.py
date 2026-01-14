@@ -1,0 +1,15 @@
+fruiets=[]
+f1 = input("Enter Fruiets name:")
+fruiets.append(f1)
+f2 = input("Enter Fruiets name:")
+fruiets.append(f2)
+f3 = input("Enter Fruiets name:")
+fruiets.append(f3)
+f4 = input("Enter Fruiets name:")
+fruiets.append(f4)
+print(fruiets)
+f1=[23,45,34,35,67]
+print(sum(f1))
+a =(7,0,3,4,0,5,6,0)
+b=a.count(0)
+print(b)
