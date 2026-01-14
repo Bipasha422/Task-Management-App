@@ -1,7 +1,0 @@
-t = (10,20,30,30,40,40,50)
-max = max(t)
-min = min(t)
-print(max,min)
-you=tuple(set(t))
-you= sorted(t)
-print(you)
